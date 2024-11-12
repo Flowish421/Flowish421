@@ -2,15 +2,15 @@
 
 ###
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+<p align="left">My name is ... and I'm a Sweden from ....</p>
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">About me Im 27 Y/O </h2>
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning Systems Development in #C <br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
 
 ###
 
