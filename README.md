@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left">About me: Im 27 Y/O I Train alot to keep my Body and Brain in shape and active,  I like to program side project to learn more about Programing world. </h2>
+<h2 align="left">About me: I'm a 27-year-old passionate about system development with a focus on .NET. I stay active both physically and mentally through regular training, keeping my body and brain in top shape. In my free time, I work on side projects to expand my knowledge and explore the ever-evolving world of programming. </h2>
 
 ###
 
