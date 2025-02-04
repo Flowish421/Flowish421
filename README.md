@@ -22,9 +22,9 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
   <img width="12" />
-  <img src="[[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlserver/sqlserver-original.svg](https://cdn-icons-png.flaticon.com/512/5968/5968364.png)](https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/298494554/original/d31d7ed9867d4765a9193a4b6d1d9af544eb9d06/develop-aspnet-dotnet-core-website-or-web-app.png)" height="40" alt="sqlserver logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlserver/sqlserver-original.svg" height="40" alt="sqlserver logo"  />
   <img width="12" />
-  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aspnet/aspnet-original.svg](https://api.civo.com/k3s-marketplace/aspnet.png)" height="40" alt="aspnet logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aspnet/aspnet-original.svg" height="40" alt="aspnet logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visual studio logo"  />
   <img width="12" />
