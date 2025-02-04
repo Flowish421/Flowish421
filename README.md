@@ -22,9 +22,9 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlserver/sqlserver-original.svg" height="40" alt="sqlserver logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/SQL_Server_Logo.png" height="40" alt="sqlserver logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aspnet/aspnet-original.svg" height="40" alt="aspnet logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/46/ASP.NET_Logo.svg" height="40" alt="aspnet logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visual studio logo"  />
   <img width="12" />
